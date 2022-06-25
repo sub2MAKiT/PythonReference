@@ -3,7 +3,7 @@
         "title": "a script that prints a provided word, provided n times",
         "points": "1",
         "number": "1",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "a fancy clock",
