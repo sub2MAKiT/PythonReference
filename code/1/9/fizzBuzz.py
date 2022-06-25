@@ -1,0 +1,1 @@
+[print('{}.{}{}'.format(x,'fizz' if x%3==0 else '','buzz' if x%5==0 else ''))for x in range(1,int(input("n: ")))]

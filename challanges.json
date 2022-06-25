@@ -27,25 +27,25 @@
         "title": "alphabetical list sorter",
         "points": "1",
         "number": "5",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "mathematical palindrome checker",
         "points": "1",
         "number": "6",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "words palindrome checker",
         "points": "1",
         "number": "7",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "number remover",
         "points": "1",
         "number": "8",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "fizz buzz",

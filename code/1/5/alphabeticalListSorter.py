@@ -12,4 +12,3 @@ with open('./list.MKTI') as f:
 finalArray.sort()
 for x in finalArray:
     print(x,end='')
-
