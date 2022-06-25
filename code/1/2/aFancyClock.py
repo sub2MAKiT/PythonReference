@@ -5,7 +5,6 @@ counter = 0
 offset = 0 # I'm not happy about this approach either, but I have no idea how to do it in python
 
 while 1:
-    print("DEBUG" + str(offset))
     if len(str(counter)) > sizeOfClock:
         offset = len(str(counter)) - sizeOfClock
     print("+",end='')
