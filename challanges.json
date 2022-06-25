@@ -21,7 +21,7 @@
         "title": "list sorter",
         "points": "1",
         "number": "4",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "alphabetical list sorter",

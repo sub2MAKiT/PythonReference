@@ -20,8 +20,6 @@ def readCurrentString(content,charNumber):
         
 
 with open('./list.MKTI') as f:
-    line = 0
-    sizeToList = 0
     contents = f.read()
     x = ["test"]
     for a in contents:
