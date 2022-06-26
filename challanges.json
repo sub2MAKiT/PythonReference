@@ -63,7 +63,7 @@
         "title": "a random challange picker (picks a random python challange from this list)",
         "points": "2",
         "number": "11",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "hungman",
@@ -78,7 +78,7 @@
         "isDone":false
     },
     {
-        "title": "russian roulette with the /dev/ repository",
+        "title": "russian roulette with the /dev/ directory",
         "points": "2",
         "number": "14",
         "isDone":false
@@ -123,7 +123,7 @@
         "title": "basic function drawer",
         "points": "3",
         "number": "21",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "number sorter with at least 3 sorting types",
@@ -141,19 +141,19 @@
         "title": "webscraper to download files from vkguide",
         "points": "3",
         "number": "24",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "webscraper to find a keyword on a website",
         "points": "3",
         "number": "25",
-        "isDone":false
+        "isDone":true
     },
     {
-        "title": "a program that takes in an image, and finds it's average colour (read, yellow, green or blue)",
+        "title": "a program that takes in an image, and finds it's average colour (red, yellow, green or blue)",
         "points": "3",
         "number": "26",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "a 26, but saves the data into json",
@@ -171,7 +171,7 @@
         "title": "a basic sorter, that sorts after loading data to memory",
         "points": "3",
         "number": "29",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "based on the json data from the 27, makes MAKiT logo made out of these photos",
@@ -204,7 +204,7 @@
         "isDone":false
     },
     {
-        "title": "function drawer using the pyhon library",
+        "title": "advanced function drawer",
         "points": "4",
         "number": "35",
         "isDone":false
@@ -213,7 +213,7 @@
         "title": "a basic web scraper, that looks for a word 'MAKiT'",
         "points": "4",
         "number": "36",
-        "isDone":false
+        "isDone":true
     },
     {
         "title": "a better word searching algorithm",
